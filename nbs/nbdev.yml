@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "baywheels"
+  site-url: "https://patrickod.github.io/baywheels"
+  description: "Analyzing usage history for the San Francisco' BayWheel's bicycle fleet"
+  repo-branch: main
+  repo-url: "https://github.com/patrickod/baywheels"
